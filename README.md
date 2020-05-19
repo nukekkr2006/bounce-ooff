@@ -1,2 +1,2 @@
-# bounce-ooff
-best game of the year
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
